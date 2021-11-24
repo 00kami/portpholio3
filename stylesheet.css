@@ -709,7 +709,7 @@ main {
 }
 
 .top__image {
-  background: url(../img/top.png) no-repeat center center/cover;
+  background: url(./img/top.png) no-repeat center center/cover;
   width: calc(515 / 1440 * 100%);
   padding-top: calc(515 / 1440 * 100%);
   position: absolute;
